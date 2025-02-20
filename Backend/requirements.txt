@@ -1,0 +1,11 @@
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn
+matplotlib
+pandas
+html5lib
+streamlit
+joblib
+flask
+numpy
+flask_cors
