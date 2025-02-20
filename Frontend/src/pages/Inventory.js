@@ -3,6 +3,7 @@ import AddProduct from "../components/AddProduct";
 import UpdateProduct from "../components/UpdateProduct";
 import AuthContext from "../AuthContext";
 import Monitor from "../components/Monitor";
+import PurchaseDetails from "./PurchaseDetails";
 
 function Inventory() {
   const [showProductModal, setShowProductModal] = useState(false);
